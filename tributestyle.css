@@ -1,0 +1,17 @@
+h1 {
+    color: darkblue;
+
+}
+body {
+    background-color: slateblue;
+    text-align: center;
+}
+
+#img-div img {
+    width: 100%;
+    height: auto;
+    max-width: 625px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
